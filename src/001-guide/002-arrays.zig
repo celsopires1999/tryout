@@ -21,4 +21,5 @@ pub fn main() void {
     print("\n", .{});
 
     print("the hello array has {d} elements\n", .{hello.len});
+    print("the world array has {d} elements\n", .{world.len});
 }
