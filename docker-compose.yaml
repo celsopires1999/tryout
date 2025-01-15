@@ -1,5 +1,5 @@
-volumes:
-  postgres-data:
+# volumes:
+#   postgres-data:
 
 services:
   app:
