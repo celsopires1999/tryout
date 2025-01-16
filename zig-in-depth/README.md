@@ -16,3 +16,12 @@ zig build test --summary all
 zig build run --summary all
 zig build --summary all
 ```
+
+```bash
+nano ~/.bashrc
+alias zbr="zig build run"
+source ~/.bashrc
+or 
+echo 'alias zbr="zig build run"' >> ~/.bashrc & echo 'alias zbr="zig build test"' >> ~/.bashrc & source ~/.bashrc
+echo 'alias zbr="zig build run"' >> ~/.bashrc & source ~/.bashrc
+```

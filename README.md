@@ -4,6 +4,9 @@
 https://zig.guide/
 
 ### Doucumentation
+#### With search
+https://devdocs.io/zig 
+#### Without search
 https://ziglang.org/documentation/0.13.0/#Introduction
 
 ### Installation guide
